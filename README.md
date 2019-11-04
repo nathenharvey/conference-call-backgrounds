@@ -24,6 +24,17 @@ This work is published from:
   United States</span>.
 </p>
 
+# Examples
+
+Want to see these backgrounds in action?
+
+* https://twitter.com/julian_dunn/status/1179091370671251456
+* https://twitter.com/olearycrew/status/1179132978041098240
+* https://twitter.com/AnthonyRees/status/1179644356950519808
+* https://twitter.com/iambillmeyer/status/1179142071975759873
+
+Add your own examples via a PR to this repository or by tagging [@nathenharvey](https://twitter.com/nathenharvey) in your tweet.
+
 # Distributed Happy Hour
 
 Please join us for a remote-friendly, distributed happy hour on [Thursday, November 14 at 21:30 UTC / 16:30 EDT / 13:30 PDT](https://everytimezone.com/?t=5dcc9900,50a)!
