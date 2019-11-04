@@ -23,3 +23,18 @@ This work is published from:
       content="US" about="https://github.com/nathenharvey/zoom-backgrounds">
   United States</span>.
 </p>
+
+# Distributed Happy Hour
+
+Please join us for a remote-friendly, distributed happy hour on [Thursday, November 14 at 21:30 UTC / 16:30 EDT / 13:30 PDT](https://everytimezone.com/?t=5dcc9900,50a)!
+
+We will meet via Zoom.
+
+All attendees must abide by the following rules:
+
+1.  Bring your own beverage of choice; no beverages will be provided as part of this happy hour, please bring your own beverage of choice ;)
+2.  Use one of the backgrounds from [this repository](https://github.com/nathenharvey/conference-call-backgrounds).  It is OK if you do not have a green screen and the rendering is less than optimal, in fact, that might make the event even more fun for everyone!
+3.  You must consent to screen shots of the happy hour being posted online.
+4.  You must follow our [Code of Conduct](https://github.com/nathenharvey/conference-call-backgrounds/blob/master/CONDUCT.md); we are dedicated to providing a harassment-free experience for everyone.
+
+Want to attend?  Email [Nathen Harvey](mailto:nathen.harvey@gmail.com?Subject=Please send calendar invite for the distributed happy hour) asking for a calendar invite with details of the event.
