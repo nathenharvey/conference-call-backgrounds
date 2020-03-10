@@ -56,21 +56,8 @@ Want to see these backgrounds in action?
 
 Add your own examples via a PR to this repository or by tagging [@nathenharvey](https://twitter.com/nathenharvey) in your tweet.
 
-# Examples
-
-Want to see these backgrounds in action?
-
-* https://twitter.com/julian_dunn/status/1179091370671251456
-* https://twitter.com/olearycrew/status/1179132978041098240
-* https://twitter.com/AnthonyRees/status/1179644356950519808
-* https://twitter.com/iambillmeyer/status/1179142071975759873
-* https://twitter.com/jtimberman/status/1191419181687685120
-* https://twitter.com/apporima/status/1192540414856835072
-
-Add your own examples via a PR to this repository or by tagging [@nathenharvey](https://twitter.com/nathenharvey) in your tweet.
-
 ## Past Happy Hours
 
-Our first remote-friendly, virtual background, distributed happy hour was a success!  Thank you to everyone who joined us.
+Our first remote-friendly, virtual background, distributed happy hour (2019-11-14) was a success!  Thank you to everyone who joined us.
 
 ![Screen Shot of Happy Hour](virtual-background-distributed-happy-hour.jpeg)
