@@ -26,11 +26,7 @@ This work is published from:
 
 # Distributed Happy Hour
 
-Please join us for a remote-friendly, distributed happy hour on [Tuesday, March 10 at 20:45 UTC / 16:45 EDT / 13:45 PDT](https://everytimezone.com/s/8e8615ab)!
-
-We will meet via Zoom.
-
-All attendees must abide by the following rules:
+Distributed Happy Hour gatherings are held from time-to-time.  All attendees must abide by the following rules:
 
 1.  **Bring your own beverage** of choice; no beverages will be provided as part of this happy hour, please bring your own beverage of choice ;)
 2.  You must **consent to screen shots** of the happy hour being **posted online**.
@@ -38,8 +34,9 @@ All attendees must abide by the following rules:
 
 Attendees are encouraged to **use one of the backgrounds** from [this repository](https://github.com/nathenharvey/conference-call-backgrounds).  It is OK if you do not have a green screen and the rendering is less than optimal, in fact, that might make the event even more fun for everyone!
 
-
 ## Want to attend?
+
+Interested in joining our next remote-firendly happy hour?  Follow [@nathenharvey](https://twitter.com/nathenharvey) and watch for an announcement or send a DM to [@nathenharvey](https://twitter.com/nathenharvey) asking to be added to the next calendar invite.
 
 Email [Nathen Harvey](mailto:nathen.harvey@gmail.com?Subject=Distributed-Happy-Hour) asking for a calendar invite with details of the event.
 
@@ -58,6 +55,11 @@ Add your own examples via a PR to this repository or by tagging [@nathenharvey](
 
 ## Past Happy Hours
 
-Our first remote-friendly, virtual background, distributed happy hour (2019-11-14) was a success!  Thank you to everyone who joined us.
+![Screen Shot of 2020-03-10 Happy Hour](screenshots/2020-03-10-b.png)
+
+We had a great time discussing new work from home policies during our second happy hour (2020-03-10)
 
 ![Screen Shot of Happy Hour](virtual-background-distributed-happy-hour.jpeg)
+
+Our first remote-friendly, virtual background, distributed happy hour (2019-11-14) was a success!  Thank you to everyone who joined us.
+
