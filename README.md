@@ -55,11 +55,15 @@ Add your own examples via a PR to this repository or by tagging [@nathenharvey](
 
 ## Past Happy Hours
 
+### 2020-03-10
+
 ![Screen Shot of 2020-03-10 Happy Hour](screenshots/2020-03-10-b.png)
 
-We had a great time discussing new work from home policies during our second happy hour (2020-03-10)
+We had a great time discussing new work from home policies during our second happy hour.
+
+### 2019-11-14
 
 ![Screen Shot of Happy Hour](virtual-background-distributed-happy-hour.jpeg)
 
-Our first remote-friendly, virtual background, distributed happy hour (2019-11-14) was a success!  Thank you to everyone who joined us.
+Our first remote-friendly, virtual background, distributed happy hour was a success!  Thank you to everyone who joined us.
 
