@@ -26,7 +26,7 @@ This work is published from:
 
 # Distributed Happy Hour
 
-Distributed Happy Hour gatherings are held from time-to-time.  All attendees must abide by the following rules:
+Our next distributed happy hour will be held on [Thursday, March 19 at 19:00 UTC](https://everytimezone.com/s/99db65df).  All attendees must abide by the following rules:
 
 1.  **Bring your own beverage** of choice; no beverages will be provided as part of this happy hour, please bring your own beverage of choice ;)
 2.  You must **consent to screen shots** of the happy hour being **posted online**.
@@ -36,7 +36,11 @@ Attendees are encouraged to **use one of the backgrounds** from [this repository
 
 ## Want to attend?
 
-Interested in joining our next remote-firendly happy hour?  Follow [@nathenharvey](https://twitter.com/nathenharvey) and watch for an announcement or send a DM to [@nathenharvey](https://twitter.com/nathenharvey) asking to be added to the next calendar invite.
+Interested in joining our next remote-firendly happy hour?
+
+Send a DM to [@nathenharvey](https://twitter.com/nathenharvey) asking to be added to the next calendar invite.
+
+OR 
 
 Email [Nathen Harvey](mailto:nathen.harvey@gmail.com?Subject=Distributed-Happy-Hour) asking for a calendar invite with details of the event.
 
