@@ -26,7 +26,7 @@ This work is published from:
 
 # Distributed Happy Hour
 
-Our next distributed happy hour will be held on [Thursday, March 19 at 19:00 UTC](https://everytimezone.com/s/99db65df).  All attendees must abide by the following rules:
+Our next distributed happy hour will be held soon.  All attendees must abide by the following rules:
 
 1.  **Bring your own beverage** of choice; no beverages will be provided as part of this happy hour, please bring your own beverage of choice ;)
 2.  You must **consent to screen shots** of the happy hour being **posted online**.
@@ -59,9 +59,13 @@ Add your own examples via a PR to this repository or by tagging [@nathenharvey](
 
 ## Past Happy Hours
 
+### 2020-03-19
+
+![Screen Shot of 2020-03-19 Happy Hour](screenshots/2020-03-10/2020-03-19-01.png)
+
 ### 2020-03-10
 
-![Screen Shot of 2020-03-10 Happy Hour](screenshots/2020-03-10-b.png)
+![Screen Shot of 2020-03-10 Happy Hour](screenshots/2020-03-10/2020-03-10-b.png)
 
 We had a great time discussing new work from home policies during our second happy hour.
 
