@@ -61,7 +61,7 @@ Add your own examples via a PR to this repository or by tagging [@nathenharvey](
 
 ### 2020-03-19
 
-![Screen Shot of 2020-03-19 Happy Hour](screenshots/2020-03-10/2020-03-19-01.png)
+![Screen Shot of 2020-03-19 Happy Hour](screenshots/2020-03-19/2020-03-19-01.png)
 
 ### 2020-03-10
 
